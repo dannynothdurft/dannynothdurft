@@ -11,35 +11,26 @@ Ich liebe es, Probleme durch Code zu lösen und innovative Lösungen zu entwicke
 - **Frameworks:** [React, Next.js, Node.js]
 - **Tools:** [Git, BitBucket, GitLab, VSCode]
 - **Datenbanken:** [MongoDB]
-- **Cloud:** [Cloudinary, Edge Store]
+- **Cloud:** [Cloudinary, Edge Store, Vercal]
 
-## 🚀 Projekte
+## 🚀 Aktuell arbeite ich an:
 
-Hier sind einige meiner Projekte, an denen ich gearbeitet habe:
+### [Vier Pfoten](https://github.com/dannynothdurft/vier-pfoten)
+Vier Pfoten wird ein Marktplatz für Tiere.
+Hier können Nutzer sich anmelden und inserate erstellen.
 
-### [Projekt 1 Name](Link zum Repository)
-*Kurze Beschreibung des Projekts.*
-- **Technologien:** [Technologien verwendet]
-- **Hauptfunktionen:** [Hauptmerkmale des Projekts]
+- **Technologien:** [Next.js, SCSS, MongoDB, NodeMailer, Edge Store, Vercal]
+- **Hauptfunktionen:** [Benutzer-Authentifizierung, Erstellen und Verwalten von Inseraten, Integrierter Benutzer-Chat]
 
-### [Projekt 2 Name](Link zum Repository)
-*Kurze Beschreibung des Projekts.*
-- **Technologien:** [Technologien verwendet]
-- **Hauptfunktionen:** [Hauptmerkmale des Projekts]
 
 ## 📈 GitHub-Statistiken
 
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=dannynothdurft&show_icons=true&theme=radical)
 
-## 🌱 Aktuell lerne ich
-
-Ich arbeite derzeit daran, meine Kenntnisse in [Technologie/Framework] zu vertiefen und lerne mehr über [Thema, das dich interessiert].
-
 ## 🤝 Lass uns vernetzen!
 
-- LinkedIn: [Link zu deinem LinkedIn](https://www.linkedin.com/in/danny-nothdurft/)
-- Twitter: [Dein Twitter-Handle](Link zu deinem Twitter)
-- Persönliche Website: [Deine Website](Link zu deiner Website)
+- LinkedIn: [danny-nothdurft](https://www.linkedin.com/in/danny-nothdurft/)
+- Persönliche Website: [danny-nothdurft.de](https://www.danny-nothdurft.de/)
 
 Danke, dass du vorbeischaust! Ich freue mich darauf, von dir zu hören oder an gemeinsamen Projekten zu arbeiten.
 
