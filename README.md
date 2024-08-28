@@ -7,7 +7,7 @@ Ich liebe es, Probleme durch Code zu lösen und innovative Lösungen zu entwicke
 
 ## 🛠️ Technologien & Tools
 
-- **Sprachen:** [JavaScript]
+- **Sprachen:** [TypeSCript, JavaScript]
 - **Frameworks:** [React, Next.js, Node.js]
 - **Tools:** [Git, BitBucket, GitLab, VSCode]
 - **Datenbanken:** [MongoDB]
