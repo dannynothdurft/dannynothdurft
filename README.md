@@ -1,39 +1,50 @@
-# 👋 Hey, ich bin Danny!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey%2C+ich+bin+Danny!+%F0%9F%91%8B;Fullstack+Entwickler+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
-👨‍💻 **Softwareentwickler | Open-Source-Enthusiast | Technologie-Liebhaber**
+## 🚀 Über Mich
 
-Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Entwickler mit Erfahrung in Next.js.
-Ich liebe es, Probleme durch Code zu lösen und innovative Lösungen zu entwickeln.
+Ich bin ein leidenschaftlicher Fullstack-Entwickler mit Fokus auf moderne Webtechnologien. Meine Stärke liegt in der Entwicklung skalierbarer Webanwendungen mit Next.js und dem MERN-Stack. Ich liebe es, komplexe Probleme durch eleganten Code zu lösen.
 
-## 🛠️ Technologien & Tools
+## 💻 Tech Stack
 
-- **Sprachen:** [TypeSCript, JavaScript]
-- **Frameworks:** [React, Next.js, Node.js]
-- **Tools:** [Git, BitBucket, GitLab, VSCode]
-- **Datenbanken:** [MongoDB]
-- **Cloud:** [Cloudinary, Edge Store, Vercal]
+```typescript
+const skills = {
+    sprachen: ['TypeScript', 'JavaScript', 'SCSS', 'HTML5'],
+    frameworks: ['React', 'Next.js', 'Node.js', 'Express'],
+    datenbanken: ['MongoDB', 'Supabase'],
+    tools: ['Git', 'VSCode', 'Docker'],
+    testing: ['Vitest', 'Cypress'],
+    cloud: ['Cloudinary', 'Vercel']
+} as const;
+```
 
-## 🚀 Aktuell arbeite ich an:
+## 🔥 Aktuelle Projekte
 
-### [Vier Pfoten](https://github.com/dannynothdurft/vier-pfoten)
-Vier Pfoten wird ein Marktplatz für Tiere.
-Hier können Nutzer sich anmelden und inserate erstellen.
+### [NFTxpress](https://www.nftxpress.de/) 
+Ein innovativer NFT-Marktplatz mit eigener Blockchain-Implementierung, der Kryptowährungen überflüssig macht.
 
-- **Technologien:** [Next.js, SCSS, MongoDB, NodeMailer, Edge Store, Vercal]
-- **Hauptfunktionen:** [Benutzer-Authentifizierung, Erstellen und Verwalten von Inseraten, Integrierter Benutzer-Chat]
+**Highlights:**
+- 🔐 Robuste Benutzer-Authentifizierung
+- 🎨 NFT-Erstellung und -Verwaltung
+- 📊 Custom Blockchain
+- 📱 Responsive Design
 
+**Tech-Stack:** `Next.js` `Node.js` `SCSS` `MongoDB` `Mongoose` `NodeMailer` `Supabase` `Vercel`
 
-## 📈 GitHub-Statistiken
+## 📊 GitHub Statistiken
 
-![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=dannynothdurft&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dannynothdurft&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-## 🤝 Lass uns vernetzen!
+## 🤝 Lass uns vernetzen
 
-- LinkedIn: [danny-nothdurft](https://www.linkedin.com/in/danny-nothdurft/)
-- Persönliche Website: [danny-nothdurft.de](https://www.danny-nothdurft.de/)
-
-Danke, dass du vorbeischaust! Ich freue mich darauf, von dir zu hören oder an gemeinsamen Projekten zu arbeiten.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-nothdurft/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.danny-nothdurft.de/)
 
 ---
 
-*"Code is like humor. When you have to explain it, it’s bad."*
+<div align="center">
+  <i>Code sollte wie ein guter Witz sein - er braucht keine Erklärung 😉</i>
+</div>
