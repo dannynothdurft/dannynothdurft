@@ -4,9 +4,9 @@
 
 ## 🚀 Über Mich
 
-Ich bin Founder & CEO von DevDanny und leidenschaftlicher Fullstack-Entwickler. Meine Mission: innovative Software und SaaS-Projekte entwickeln, bestehende Projekte optimieren und in Kooperation echte Mehrwerte schaffen. Ich kombiniere technische Expertise mit strategischem Denken, um digitale Produkte zu bauen, die skalieren und echten Nutzen bringen.
+Ich bin Founder & CEO von DevDanny und leidenschaftlicher Fullstack-Entwickler. Meine Mission: innovative Software und SaaS-Projekte entwickeln, bestehende Projekte optimieren und in Kooperation echten Mehrwert schaffen. Ich kombiniere technische Expertise mit strategischem Denken, um digitale Produkte zu bauen, die skalierbar und erfolgreich sind.
 
-Meine Kernkompetenzen liegen in der Fullstack-Entwicklung, Projektoptimierung, SaaS-Lösungen und kollaborativen Unternehmensbeteiligungen.
+Ich suche aktiv Kooperationsprojekte, bei denen ich 30 % Firmenanteile übernehme und meine Erfahrung in Softwareentwicklung, SaaS und Projektoptimierung einbringe.
 
 ## 💻 Tech Stack
 
@@ -21,18 +21,10 @@ const skills = {
 } as const;
 ```
 
-## 🔥 Aktuelle Projekte
+## 🔥 Kooperationen & Projekte
 
-### [NFTxpress](https://www.nftxpress.de/) 
-Ein innovativer NFT-Marktplatz mit eigener Blockchain-Implementierung, der Kryptowährungen überflüssig macht.
-
-**Highlights:**
-- 🔐 Robuste Benutzer-Authentifizierung
-- 🎨 NFT-Erstellung und -Verwaltung
-- 📊 Custom Blockchain
-- 📱 Responsive Design
-
-**Tech-Stack:** `Next.js` `Node.js` `SCSS` `MongoDB` `Mongoose` `NodeMailer` `Supabase` `Vercel`
+Ich arbeite an Software- und SaaS-Projekten, übernehme bestehende Anwendungen oder entwickle neue Lösungen in Partnerschaften mit Unternehmen, um gemeinsam skalierbare Produkte zu schaffen.
+Wenn du ein Projekt hast, das optimiert oder gemeinsam entwickelt werden soll, kontaktier mich für eine Kooperation mit 30 % Firmenanteilen.
 
 ## 📊 GitHub Statistiken
 
