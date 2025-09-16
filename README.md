@@ -4,7 +4,9 @@
 
 ## 🚀 Über Mich
 
-Ich bin ein leidenschaftlicher Fullstack-Entwickler mit Fokus auf moderne Webtechnologien. Meine Stärke liegt in der Entwicklung skalierbarer Webanwendungen mit Next.js und dem MERN-Stack. Ich liebe es, komplexe Probleme durch eleganten Code zu lösen.
+Ich bin Founder & CEO von DevDanny und leidenschaftlicher Fullstack-Entwickler. Meine Mission: innovative Software und SaaS-Projekte entwickeln, bestehende Projekte optimieren und in Kooperation echte Mehrwerte schaffen. Ich kombiniere technische Expertise mit strategischem Denken, um digitale Produkte zu bauen, die skalieren und echten Nutzen bringen.
+
+Meine Kernkompetenzen liegen in der Fullstack-Entwicklung, Projektoptimierung, SaaS-Lösungen und kollaborativen Unternehmensbeteiligungen.
 
 ## 💻 Tech Stack
 
