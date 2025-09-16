@@ -26,16 +26,10 @@ const skills = {
 Ich arbeite an Software- und SaaS-Projekten, übernehme bestehende Anwendungen oder entwickle neue Lösungen in Partnerschaften mit Unternehmen, um gemeinsam skalierbare Produkte zu schaffen.
 Wenn du ein Projekt hast, das optimiert oder gemeinsam entwickelt werden soll, kontaktier mich für eine Kooperation mit 30 % Firmenanteilen.
 
-## 📊 GitHub Statistiken
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannynothdurft&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 🤝 Lass uns vernetzen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-nothdurft/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.danny-nothdurft.de/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.devdanny.de/)
 
 ---
 
